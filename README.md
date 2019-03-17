@@ -4,7 +4,7 @@
 
 ## Install
 
-`go get -u github.com/hareku/sitemapaths`
+`go get -u github.com/hareku/sitemapaths/cmd/sitemapaths`
 
 ## Usage
 
